@@ -29,3 +29,33 @@ body {
   color: #000;
   padding: 0.2em 0;
 }
+
+.ip5s {
+  width: 308px;
+  height: 535px;
+  background: url("/images/_iPhone5_5s.png") no-repeat;
+  background-size: 308px 535px;
+  opacity: 1;
+}
+
+.ip5c {
+  width: 308px;
+  height: 535px;
+  background: url("/images/_iPhone5c.png") no-repeat;
+  background-size: 308px 535px;
+  opacity: 1;
+}
+
+.ip6 {
+  width: 330px;
+  height: 590px;
+  background: url("/images/_iPhone6.png") no-repeat;
+  background-size: 330px 590px;
+  opacity: 1;
+}
+
+#slider-vertical {
+//  float: left;
+//  clear: left;
+//  margin: 15px;
+}
